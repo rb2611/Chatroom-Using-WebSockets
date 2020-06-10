@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+  margin-top:15%;
+  background-image: url(https://image.shutterstock.com/z/stock-vector-social-communications-241868443.jpg);
+  background-repeat: no-repeat;
+
+}
+#chat-log {
+  background-color: #EBE4EE;
+}
+#chat-message-submit {
+background-color: blue; 
+}
