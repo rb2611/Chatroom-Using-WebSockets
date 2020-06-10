@@ -20,4 +20,4 @@ from django.conf.urls import include
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('chat/',include('api.urls')),
-]+ static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
+]
